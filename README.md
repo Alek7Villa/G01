@@ -1,2 +1,2 @@
 # G01
-First repository for EGC subject, update README.md.
+First repository for EGC subject, reUpdate README.md.
